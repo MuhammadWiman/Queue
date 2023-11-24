@@ -1,0 +1,15 @@
+D:\projectWiman\bin\Debug\net6.0\projectWiman.exe
+D:\projectWiman\bin\Debug\net6.0\projectWiman.deps.json
+D:\projectWiman\bin\Debug\net6.0\projectWiman.runtimeconfig.json
+D:\projectWiman\bin\Debug\net6.0\projectWiman.dll
+D:\projectWiman\bin\Debug\net6.0\projectWiman.pdb
+D:\projectWiman\obj\Debug\net6.0\projectWiman.csproj.AssemblyReference.cache
+D:\projectWiman\obj\Debug\net6.0\projectWiman.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectWiman\obj\Debug\net6.0\projectWiman.AssemblyInfoInputs.cache
+D:\projectWiman\obj\Debug\net6.0\projectWiman.AssemblyInfo.cs
+D:\projectWiman\obj\Debug\net6.0\projectWiman.csproj.CoreCompileInputs.cache
+D:\projectWiman\obj\Debug\net6.0\projectWiman.dll
+D:\projectWiman\obj\Debug\net6.0\refint\projectWiman.dll
+D:\projectWiman\obj\Debug\net6.0\projectWiman.pdb
+D:\projectWiman\obj\Debug\net6.0\projectWiman.genruntimeconfig.cache
+D:\projectWiman\obj\Debug\net6.0\ref\projectWiman.dll
